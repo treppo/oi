@@ -1,0 +1,9 @@
+.DS_Store
+.cpcache/
+target
+log/
+*.dylib
+
+# IntelliJ
+*.iml
+.idea/
